@@ -26,8 +26,7 @@ const bosses =[
     {
         name: "Furia floral",
         character_name: "Clavel de cagney",
-        is_plain: true,
+        is_plain: false,
         img: "/public/bosses/hilda.png"
     },
-
 ]
